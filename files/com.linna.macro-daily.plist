@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.linna.macro-daily</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/linna/macro_daily/run_daily.sh</string>
+    </array>
+
+    <!-- 每天早上 7:00 触发（北京时间，Mac本地时区） -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>7</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- 环境变量（填入你的key） -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>ANTHROPIC_API_KEY</key>
+        <string>YOUR_ANTHROPIC_API_KEY_HERE</string>
+        <key>LARK_WEBHOOK_URL</key>
+        <string>YOUR_LARK_WEBHOOK_URL_HERE</string>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+
+    <!-- 日志 -->
+    <key>StandardOutPath</key>
+    <string>/Users/linna/macro_daily/logs/launchd_stdout.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/linna/macro_daily/logs/launchd_stderr.log</string>
+
+    <!-- 错误后重试 -->
+    <key>OnDemand</key>
+    <false/>
+</dict>
+</plist>
