@@ -280,7 +280,7 @@ def main():
     output = {"date": today, "market": market,
                "macro_us": macro_us, "macro_cn": macro_cn, "ratios": ratios}
 
-    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
+    if os.path.dirname(OUT_PATH): os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
