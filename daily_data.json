@@ -1,61 +1,61 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "market": {
     "sp500": {
-      "price": NaN,
-      "change_pct": NaN
+      "price": 6824.6602,
+      "change_pct": 0.62
     },
     "nasdaq": {
-      "price": NaN,
-      "change_pct": NaN
+      "price": 22822.4199,
+      "change_pct": 0.83
     },
     "dow": {
-      "price": NaN,
-      "change_pct": NaN
+      "price": 48185.8008,
+      "change_pct": 0.58
     },
     "hsi": {
-      "price": 25818.4199,
-      "change_pct": null
+      "price": 25902.25,
+      "change_pct": 0.58
     },
     "csi300": {
-      "price": 4568.0361,
-      "change_pct": null
+      "price": 4620.1416,
+      "change_pct": 1.18
     },
     "nikkei": {
-      "price": 56019.3281,
-      "change_pct": null
+      "price": 56832.2617,
+      "change_pct": 1.68
     },
     "oil_brent": {
-      "price": 96.68,
-      "change_pct": 2.04
+      "price": 95.92,
+      "change_pct": null
     },
     "gold": {
-      "price": 4745.2002,
-      "change_pct": -0.09
+      "price": 4791.2998,
+      "change_pct": -0.02
     },
     "silver": {
-      "price": 74.115,
-      "change_pct": -1.47
+      "price": 76.0,
+      "change_pct": -0.36
     },
     "us10y": {
-      "price": 4.343,
-      "change_pct": null
+      "price": 4.293,
+      "change_pct": 0.05
     },
     "us2y": {
-      "price": 3.615,
-      "change_pct": null
-    },
-    "dxy": {
-      "price": 99.069,
-      "change_pct": null
-    },
-    "usdcny": {
-      "price": 6.8342,
+      "price": 3.588,
       "change_pct": -0.33
     },
+    "dxy": {
+      "price": 98.86,
+      "change_pct": 0.04
+    },
+    "usdcny": {
+      "price": 6.8301,
+      "change_pct": 0.02
+    },
     "vix": {
-      "price": 25.78,
-      "change_pct": null
+      "price": 19.49,
+      "change_pct": -7.37
     }
   },
   "macro_us": {
@@ -108,7 +108,7 @@
       "mom": "N/A"
     },
     "ppi": {
-      "date": "2026年02月份",
+      "date": "2026年03月份",
       "yoy": "N/A"
     },
     "pmi_official": {
@@ -150,13 +150,13 @@
       "5y": "3.5"
     },
     "bdi": {
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "value": "N/A"
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0204,
-    "yield_spread_10_2": 0.728,
-    "gold_dxy_ratio": 47.898
+    "oil_gold_ratio": 0.02,
+    "yield_spread_10_2": 0.705,
+    "gold_dxy_ratio": 48.466
   }
 }
