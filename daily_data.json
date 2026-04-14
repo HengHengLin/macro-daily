@@ -1,61 +1,61 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "market": {
     "sp500": {
-      "price": 6816.8901,
-      "change_pct": -0.11
+      "price": 6886.2402,
+      "change_pct": 1.02
     },
     "nasdaq": {
-      "price": 22902.8906,
-      "change_pct": 0.35
+      "price": 23183.7402,
+      "change_pct": 1.23
     },
     "dow": {
-      "price": 47916.5703,
-      "change_pct": -0.56
+      "price": 48218.25,
+      "change_pct": 0.63
     },
     "hsi": {
-      "price": 25587.2598,
-      "change_pct": -1.18
+      "price": 25762.9199,
+      "change_pct": 0.4
     },
     "csi300": {
-      "price": 4630.7866,
-      "change_pct": -0.12
+      "price": 4685.0488,
+      "change_pct": 0.84
     },
     "nikkei": {
-      "price": 56244.1094,
-      "change_pct": -1.19
+      "price": 57850.5195,
+      "change_pct": 2.39
     },
     "oil_brent": {
-      "price": 102.25,
-      "change_pct": null
+      "price": 98.14,
+      "change_pct": -1.23
     },
     "gold": {
-      "price": 4734.0,
-      "change_pct": null
+      "price": 4791.5,
+      "change_pct": 1.04
     },
     "silver": {
-      "price": 74.31,
-      "change_pct": null
+      "price": 77.06,
+      "change_pct": 2.04
     },
     "us10y": {
-      "price": 4.317,
-      "change_pct": 0.56
+      "price": 4.297,
+      "change_pct": -0.46
     },
     "us2y": {
-      "price": 3.593,
-      "change_pct": 0.14
+      "price": 3.603,
+      "change_pct": 0.28
     },
     "dxy": {
-      "price": 99.002,
-      "change_pct": null
+      "price": 98.325,
+      "change_pct": -0.05
     },
     "usdcny": {
-      "price": 6.8321,
-      "change_pct": 0.01
+      "price": 6.8166,
+      "change_pct": -0.16
     },
     "vix": {
-      "price": 19.23,
-      "change_pct": -1.33
+      "price": 19.12,
+      "change_pct": -0.57
     }
   },
   "macro_us": {
@@ -125,13 +125,13 @@
       "value": "56.7"
     },
     "money_supply": {
-      "date": "2026年02月份",
-      "m2_yoy": "9.0",
-      "m1_yoy": "5.9"
+      "date": "2026年03月份",
+      "m2_yoy": "8.5",
+      "m1_yoy": "5.1"
     },
     "social_finance": {
-      "date": "2026年02月份",
-      "value": "8458.0",
+      "date": "2026年03月份",
+      "value": "31526.0",
       "col": "当月"
     },
     "shibor": {
@@ -150,13 +150,13 @@
       "5y": "3.5"
     },
     "bdi": {
-      "date": "2026-04-10",
+      "date": "2026-04-13",
       "value": "N/A"
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0216,
-    "yield_spread_10_2": 0.724,
-    "gold_dxy_ratio": 47.817
+    "oil_gold_ratio": 0.0205,
+    "yield_spread_10_2": 0.694,
+    "gold_dxy_ratio": 48.731
   }
 }
