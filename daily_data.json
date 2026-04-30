@@ -1,61 +1,61 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "market": {
     "sp500": {
-      "price": 7138.7998,
-      "change_pct": -0.49
+      "price": 7135.9502,
+      "change_pct": -0.04
     },
     "nasdaq": {
-      "price": 24663.8008,
-      "change_pct": -0.9
+      "price": 24673.2402,
+      "change_pct": 0.04
     },
     "dow": {
-      "price": 49141.9297,
-      "change_pct": -0.05
+      "price": 48861.8086,
+      "change_pct": -0.57
     },
     "hsi": {
-      "price": 26010.6191,
-      "change_pct": 1.29
+      "price": 25789.5898,
+      "change_pct": -1.23
     },
     "csi300": {
-      "price": 4788.5293,
-      "change_pct": 0.64
+      "price": 4809.7588,
+      "change_pct": -0.01
     },
     "nikkei": {
-      "price": 59917.4609,
-      "change_pct": -1.02
+      "price": 59060.2891,
+      "change_pct": -1.43
     },
     "oil_brent": {
-      "price": 104.12,
-      "change_pct": -6.42
+      "price": 113.78,
+      "change_pct": -3.6
     },
     "gold": {
-      "price": 4613.7002,
-      "change_pct": 0.48
+      "price": 4560.8999,
+      "change_pct": 0.35
     },
     "silver": {
-      "price": 74.195,
-      "change_pct": 1.35
+      "price": 72.355,
+      "change_pct": 1.1
     },
     "us10y": {
-      "price": 4.354,
-      "change_pct": 0.42
+      "price": 4.418,
+      "change_pct": 1.47
     },
     "us2y": {
       "price": 3.59,
       "change_pct": 0.0
     },
     "dxy": {
-      "price": 98.672,
-      "change_pct": 0.05
+      "price": 99.04,
+      "change_pct": 0.12
     },
     "usdcny": {
-      "price": 6.8353,
-      "change_pct": 0.18
+      "price": 6.8404,
+      "change_pct": 0.04
     },
     "vix": {
-      "price": 17.83,
-      "change_pct": -1.05
+      "price": 18.81,
+      "change_pct": 5.5
     }
   },
   "macro_us": {
@@ -112,9 +112,9 @@
       "yoy": "N/A"
     },
     "pmi_official": {
-      "date": "2026年03月份",
-      "mfg": "50.4",
-      "non_mfg": "50.1"
+      "date": "2026年04月份",
+      "mfg": "50.3",
+      "non_mfg": "49.4"
     },
     "pmi_caixin_mfg": {
       "date": "N/A",
@@ -150,13 +150,13 @@
       "5y": "3.5"
     },
     "bdi": {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "value": "N/A"
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0226,
-    "yield_spread_10_2": 0.764,
-    "gold_dxy_ratio": 46.758
+    "oil_gold_ratio": 0.0249,
+    "yield_spread_10_2": 0.828,
+    "gold_dxy_ratio": 46.051
   }
 }
