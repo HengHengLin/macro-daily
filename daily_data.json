@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "market": {
     "sp500": {
       "price": 7230.1201,
@@ -27,15 +27,15 @@
     },
     "oil_brent": {
       "price": 108.17,
-      "change_pct": -5.12
+      "change_pct": null
     },
     "gold": {
-      "price": 4629.8999,
-      "change_pct": 0.33
+      "price": 4644.5,
+      "change_pct": null
     },
     "silver": {
-      "price": 75.951,
-      "change_pct": 3.29
+      "price": 76.431,
+      "change_pct": null
     },
     "us10y": {
       "price": 4.378,
@@ -47,7 +47,7 @@
     },
     "dxy": {
       "price": 98.21,
-      "change_pct": 0.13
+      "change_pct": null
     },
     "usdcny": {
       "price": 6.8271,
@@ -155,8 +155,8 @@
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0234,
+    "oil_gold_ratio": 0.0233,
     "yield_spread_10_2": 0.803,
-    "gold_dxy_ratio": 47.143
+    "gold_dxy_ratio": 47.292
   }
 }
