@@ -1,61 +1,61 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "market": {
     "sp500": {
-      "price": 7432.9702,
-      "change_pct": 1.08
+      "price": 7445.7202,
+      "change_pct": 0.17
     },
     "nasdaq": {
-      "price": 26270.3594,
-      "change_pct": 1.54
+      "price": 26293.0996,
+      "change_pct": 0.09
     },
     "dow": {
-      "price": 50009.3516,
-      "change_pct": 1.31
+      "price": 50285.6602,
+      "change_pct": 0.55
     },
     "hsi": {
-      "price": 25648.2793,
-      "change_pct": -0.01
+      "price": 25696.2793,
+      "change_pct": 1.22
     },
     "csi300": {
-      "price": 4878.6128,
-      "change_pct": 0.58
+      "price": 4816.5864,
+      "change_pct": 0.7
     },
     "nikkei": {
-      "price": 61917.3086,
-      "change_pct": 3.53
+      "price": 63309.9492,
+      "change_pct": 2.64
     },
     "oil_brent": {
-      "price": 105.59,
-      "change_pct": 0.54
+      "price": 104.27,
+      "change_pct": 1.65
     },
     "gold": {
-      "price": 4540.8999,
-      "change_pct": 0.21
-    },
-    "silver": {
-      "price": 76.085,
-      "change_pct": 0.31
-    },
-    "us10y": {
-      "price": 4.572,
-      "change_pct": -2.04
-    },
-    "us2y": {
-      "price": 3.557,
-      "change_pct": -0.5
-    },
-    "dxy": {
-      "price": 99.161,
-      "change_pct": 0.05
-    },
-    "usdcny": {
-      "price": 6.7997,
+      "price": 4529.6001,
       "change_pct": -0.22
     },
+    "silver": {
+      "price": 76.9,
+      "change_pct": 0.64
+    },
+    "us10y": {
+      "price": 4.586,
+      "change_pct": 0.31
+    },
+    "us2y": {
+      "price": 3.582,
+      "change_pct": 0.7
+    },
+    "dxy": {
+      "price": 99.221,
+      "change_pct": 0.03
+    },
+    "usdcny": {
+      "price": 6.798,
+      "change_pct": -0.04
+    },
     "vix": {
-      "price": 17.44,
-      "change_pct": -3.43
+      "price": 16.76,
+      "change_pct": -3.9
     }
   },
   "macro_us": {
@@ -150,13 +150,13 @@
       "5y": "3.5"
     },
     "bdi": {
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "value": "N/A"
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0233,
-    "yield_spread_10_2": 1.015,
-    "gold_dxy_ratio": 45.793
+    "oil_gold_ratio": 0.023,
+    "yield_spread_10_2": 1.004,
+    "gold_dxy_ratio": 45.652
   }
 }
