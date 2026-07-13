@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "market": {
     "sp500": {
       "price": 7575.3901,
@@ -14,27 +14,27 @@
       "change_pct": 0.29
     },
     "hsi": {
-      "price": 24175.1191,
-      "change_pct": 0.6
+      "price": 24148.5293,
+      "change_pct": -0.11
     },
     "csi300": {
-      "price": 4780.7866,
-      "change_pct": null
+      "price": 4716.6685,
+      "change_pct": -1.34
     },
     "nikkei": {
-      "price": 68557.7266,
-      "change_pct": 1.2
+      "price": 67036.0312,
+      "change_pct": -2.22
     },
     "oil_brent": {
-      "price": 76.01,
+      "price": 79.13,
       "change_pct": null
     },
     "gold": {
-      "price": 4113.7002,
+      "price": 4064.5,
       "change_pct": null
     },
     "silver": {
-      "price": 60.165,
+      "price": 58.53,
       "change_pct": null
     },
     "us10y": {
@@ -46,12 +46,12 @@
       "change_pct": 0.35
     },
     "dxy": {
-      "price": 100.97,
+      "price": 101.113,
       "change_pct": null
     },
     "usdcny": {
-      "price": 6.7667,
-      "change_pct": -0.37
+      "price": 6.7832,
+      "change_pct": -0.13
     },
     "vix": {
       "price": 15.03,
@@ -76,9 +76,7 @@
       "prev": "-0.3"
     },
     "core_pce": {
-      "date": "1970-01-01",
-      "value": "4.8",
-      "prev": "nan"
+      "_error": "美国核心PCE: Expecting value: line 1 column 1 (char 0)"
     },
     "unemployment": {
       "date": "1970-01-01",
@@ -155,8 +153,8 @@
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0185,
+    "oil_gold_ratio": 0.0195,
     "yield_spread_10_2": 0.874,
-    "gold_dxy_ratio": 40.742
+    "gold_dxy_ratio": 40.198
   }
 }
