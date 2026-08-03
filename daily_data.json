@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "market": {
     "sp500": {
       "price": 7489.7202,
@@ -14,27 +14,26 @@
       "change_pct": 0.53
     },
     "hsi": {
-      "price": 25884.4297,
-      "change_pct": 0.1
+      "price": 25895.4395,
+      "change_pct": 0.04
     },
     "csi300": {
-      "price": 4588.1968,
+      "price": 4554.6211,
       "change_pct": null
     },
     "nikkei": {
-      "price": 64362.0195,
-      "change_pct": 4.03
+      "price": 63684.5781,
+      "change_pct": -1.05
     },
     "oil_brent": {
-      "price": 90.12,
-      "change_pct": null
+      "price": "N/A"
     },
     "gold": {
-      "price": 4107.0,
+      "price": 4124.1001,
       "change_pct": null
     },
     "silver": {
-      "price": 57.786,
+      "price": 58.535,
       "change_pct": null
     },
     "us10y": {
@@ -46,12 +45,12 @@
       "change_pct": 0.19
     },
     "dxy": {
-      "price": 99.8,
+      "price": 99.724,
       "change_pct": null
     },
     "usdcny": {
-      "price": 6.7505,
-      "change_pct": -0.07
+      "price": 6.7526,
+      "change_pct": -0.04
     },
     "vix": {
       "price": 15.99,
@@ -141,7 +140,8 @@
       "1m": "N/A"
     },
     "dr007": {
-      "_error": "DR007: Expecting value: line 1 column 1 (char 0)"
+      "date": "2020-10-29",
+      "value": "2.9"
     },
     "lpr": {
       "date": "2026-07-20",
@@ -154,8 +154,8 @@
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0219,
+    "oil_gold_ratio": "N/A",
     "yield_spread_10_2": 1.063,
-    "gold_dxy_ratio": 41.152
+    "gold_dxy_ratio": 41.355
   }
 }
