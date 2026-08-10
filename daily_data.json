@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "market": {
     "sp500": {
       "price": 7757.6401,
@@ -14,28 +14,28 @@
       "change_pct": 0.28
     },
     "hsi": {
-      "price": 25668.0293,
-      "change_pct": 0.54
+      "price": 25839.4492,
+      "change_pct": 0.67
     },
     "csi300": {
-      "price": 4694.4365,
+      "price": 4675.665,
       "change_pct": null
     },
     "nikkei": {
-      "price": 65606.7109,
-      "change_pct": -0.12
+      "price": 66931.4766,
+      "change_pct": 2.02
     },
     "oil_brent": {
-      "price": 83.55,
-      "change_pct": 1.29
+      "price": 84.32,
+      "change_pct": 0.92
     },
     "gold": {
-      "price": 4340.7002,
-      "change_pct": 2.33
+      "price": 4379.1001,
+      "change_pct": 0.88
     },
     "silver": {
-      "price": 63.332,
-      "change_pct": 3.08
+      "price": 63.545,
+      "change_pct": 0.34
     },
     "us10y": {
       "price": 4.66,
@@ -46,12 +46,12 @@
       "change_pct": -0.59
     },
     "dxy": {
-      "price": 99.6,
-      "change_pct": -0.37
+      "price": 99.702,
+      "change_pct": 0.1
     },
     "usdcny": {
-      "price": 6.7372,
-      "change_pct": -0.17
+      "price": 6.746,
+      "change_pct": -0.04
     },
     "vix": {
       "price": 14.9,
@@ -108,7 +108,7 @@
       "mom": "N/A"
     },
     "ppi": {
-      "date": "2026年06月份",
+      "date": "2026年07月份",
       "yoy": "N/A"
     },
     "pmi_official": {
@@ -155,8 +155,8 @@
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0192,
+    "oil_gold_ratio": 0.0193,
     "yield_spread_10_2": 0.95,
-    "gold_dxy_ratio": 43.581
+    "gold_dxy_ratio": 43.922
   }
 }
