@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "market": {
     "sp500": {
       "price": 7711.7598,
@@ -14,27 +14,27 @@
       "change_pct": -0.02
     },
     "hsi": {
-      "price": 25584.7891,
-      "change_pct": 0.07
+      "price": 25483.0195,
+      "change_pct": -0.4
     },
     "csi300": {
-      "price": 4609.1763,
+      "price": 4622.0107,
       "change_pct": null
     },
     "nikkei": {
-      "price": 66405.5625,
-      "change_pct": 0.41
+      "price": 66311.9297,
+      "change_pct": -0.14
     },
     "oil_brent": {
-      "price": 88.1,
+      "price": 90.57,
       "change_pct": null
     },
     "gold": {
-      "price": 4529.8999,
+      "price": 4490.3999,
       "change_pct": null
     },
     "silver": {
-      "price": 67.786,
+      "price": 67.455,
       "change_pct": null
     },
     "us10y": {
@@ -46,12 +46,12 @@
       "change_pct": 1.41
     },
     "dxy": {
-      "price": 99.7,
+      "price": 99.605,
       "change_pct": null
     },
     "usdcny": {
-      "price": 6.7205,
-      "change_pct": -0.03
+      "price": 6.7194,
+      "change_pct": -0.05
     },
     "vix": {
       "price": 14.43,
@@ -112,8 +112,8 @@
       "yoy": "N/A"
     },
     "pmi_official": {
-      "date": "2026年07月份",
-      "mfg": "49.2",
+      "date": "2026年08月份",
+      "mfg": "49.8",
       "non_mfg": "49.0"
     },
     "pmi_caixin_mfg": {
@@ -155,8 +155,8 @@
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0194,
+    "oil_gold_ratio": 0.0202,
     "yield_spread_10_2": 0.99,
-    "gold_dxy_ratio": 45.435
+    "gold_dxy_ratio": 45.082
   }
 }
