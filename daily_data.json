@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "market": {
     "sp500": {
       "price": 7718.6001,
@@ -14,28 +14,28 @@
       "change_pct": -0.51
     },
     "hsi": {
-      "price": 25650.8691,
-      "change_pct": 1.74
+      "price": 25415.9297,
+      "change_pct": -0.92
     },
     "csi300": {
-      "price": 4548.0498,
+      "price": 4578.3628,
       "change_pct": null
     },
     "nikkei": {
-      "price": 65020.9414,
-      "change_pct": 1.26
+      "price": 66280.0234,
+      "change_pct": 1.94
     },
     "oil_brent": {
       "price": 96.28,
-      "change_pct": null
+      "change_pct": 0.0
     },
     "gold": {
       "price": 4476.6001,
-      "change_pct": null
+      "change_pct": 1.06
     },
     "silver": {
       "price": 66.748,
-      "change_pct": null
+      "change_pct": 1.06
     },
     "us10y": {
       "price": 4.784,
@@ -46,12 +46,12 @@
       "change_pct": 0.45
     },
     "dxy": {
-      "price": 99.16,
-      "change_pct": null
+      "price": 99.162,
+      "change_pct": 0.0
     },
     "usdcny": {
-      "price": 6.7108,
-      "change_pct": -0.12
+      "price": 6.7105,
+      "change_pct": -0.13
     },
     "vix": {
       "price": 14.53,
@@ -155,6 +155,6 @@
   "ratios": {
     "oil_gold_ratio": 0.0215,
     "yield_spread_10_2": 1.027,
-    "gold_dxy_ratio": 45.145
+    "gold_dxy_ratio": 45.144
   }
 }
