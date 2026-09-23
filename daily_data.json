@@ -1,24 +1,24 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "market": {
     "sp500": {
-      "price": 7764.7002,
-      "change_pct": 1.49
+      "price": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "price": 27122.0898,
-      "change_pct": 2.26
+      "price": NaN,
+      "change_pct": NaN
     },
     "dow": {
-      "price": 52048.8281,
-      "change_pct": 0.71
+      "price": NaN,
+      "change_pct": NaN
     },
     "hsi": {
-      "price": 25105.5703,
-      "change_pct": 0.25
+      "price": 24867.4004,
+      "change_pct": null
     },
     "csi300": {
-      "price": 4556.127,
+      "price": 4522.5029,
       "change_pct": null
     },
     "nikkei": {
@@ -26,36 +26,36 @@
       "change_pct": 1.38
     },
     "oil_brent": {
-      "price": 97.68,
-      "change_pct": -2.65
+      "price": 98.74,
+      "change_pct": -0.51
     },
     "gold": {
-      "price": 4364.3999,
-      "change_pct": -0.44
+      "price": 4376.1001,
+      "change_pct": -0.01
     },
     "silver": {
-      "price": 66.0,
-      "change_pct": 0.27
+      "price": 66.95,
+      "change_pct": 1.54
     },
     "us10y": {
       "price": 4.963,
-      "change_pct": -0.7
+      "change_pct": null
     },
     "us2y": {
       "price": 3.982,
-      "change_pct": 0.1
+      "change_pct": null
     },
     "dxy": {
-      "price": 100.368,
-      "change_pct": -0.06
+      "price": 100.719,
+      "change_pct": null
     },
     "usdcny": {
-      "price": 6.6967,
-      "change_pct": -0.01
+      "price": 6.7057,
+      "change_pct": 0.16
     },
     "vix": {
       "price": 14.87,
-      "change_pct": 0.41
+      "change_pct": null
     }
   },
   "macro_us": {
@@ -148,13 +148,13 @@
       "5y": "3.5"
     },
     "bdi": {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "value": "N/A"
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0224,
+    "oil_gold_ratio": 0.0226,
     "yield_spread_10_2": 0.981,
-    "gold_dxy_ratio": 43.484
+    "gold_dxy_ratio": 43.449
   }
 }
