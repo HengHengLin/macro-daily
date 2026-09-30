@@ -1,61 +1,61 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "market": {
     "sp500": {
-      "price": 7683.6899,
-      "change_pct": -0.77
+      "price": 7670.8398,
+      "change_pct": -0.17
     },
     "nasdaq": {
-      "price": 26820.3809,
-      "change_pct": -0.92
+      "price": 26797.5391,
+      "change_pct": -0.09
     },
     "dow": {
-      "price": 51481.5117,
-      "change_pct": -0.67
+      "price": 51349.9219,
+      "change_pct": -0.26
     },
     "hsi": {
-      "price": 24544.0605,
-      "change_pct": -0.4
+      "price": 24579.9805,
+      "change_pct": 0.23
     },
     "csi300": {
-      "price": 4355.5615,
+      "price": 4364.312,
       "change_pct": null
     },
     "nikkei": {
-      "price": 65209.3711,
-      "change_pct": -1.01
+      "price": 66927.4375,
+      "change_pct": 2.21
     },
     "oil_brent": {
-      "price": 99.27,
-      "change_pct": -5.71
+      "price": 95.87,
+      "change_pct": -6.55
     },
     "gold": {
-      "price": 4175.5,
-      "change_pct": 0.17
+      "price": 4214.7002,
+      "change_pct": 0.84
     },
     "silver": {
-      "price": 61.27,
-      "change_pct": 0.08
+      "price": 61.52,
+      "change_pct": 1.4
     },
     "us10y": {
-      "price": 5.24,
-      "change_pct": 1.08
+      "price": 5.255,
+      "change_pct": 0.29
     },
     "us2y": {
-      "price": 4.057,
-      "change_pct": -0.32
+      "price": 4.065,
+      "change_pct": 0.2
     },
     "dxy": {
-      "price": 101.252,
-      "change_pct": 0.05
+      "price": 101.271,
+      "change_pct": -0.1
     },
     "usdcny": {
-      "price": 6.704,
-      "change_pct": -0.13
+      "price": 6.7031,
+      "change_pct": -0.11
     },
     "vix": {
-      "price": 16.07,
-      "change_pct": 8.07
+      "price": 16.04,
+      "change_pct": -0.19
     }
   },
   "macro_us": {
@@ -112,9 +112,9 @@
       "yoy": "N/A"
     },
     "pmi_official": {
-      "date": "2026年08月份",
-      "mfg": "49.8",
-      "non_mfg": "49.0"
+      "date": "2026年09月份",
+      "mfg": "50.1",
+      "non_mfg": "50.2"
     },
     "pmi_caixin_mfg": {
       "_error": "财新制造业PMI: Expecting value: line 1 column 1 (char 0)"
@@ -148,13 +148,13 @@
       "5y": "3.5"
     },
     "bdi": {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "value": "N/A"
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0238,
-    "yield_spread_10_2": 1.183,
-    "gold_dxy_ratio": 41.239
+    "oil_gold_ratio": 0.0227,
+    "yield_spread_10_2": 1.19,
+    "gold_dxy_ratio": 41.618
   }
 }
