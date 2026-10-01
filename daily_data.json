@@ -1,79 +1,72 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "market": {
     "sp500": {
-      "price": 7670.8398,
-      "change_pct": -0.17
+      "price": 7651.54,
+      "change_pct": -0.25
     },
     "nasdaq": {
-      "price": 26797.5391,
-      "change_pct": -0.09
+      "price": 26861.0605,
+      "change_pct": 0.24
     },
     "dow": {
-      "price": 51349.9219,
-      "change_pct": -0.26
+      "price": 50906.0508,
+      "change_pct": -0.86
     },
     "hsi": {
-      "price": 24579.9805,
-      "change_pct": 0.23
+      "price": 24613.2695,
+      "change_pct": 0.37
     },
     "csi300": {
-      "price": 4364.312,
+      "price": 4357.6157,
       "change_pct": null
     },
     "nikkei": {
-      "price": 66927.4375,
-      "change_pct": 2.21
+      "price": 68956.7188,
+      "change_pct": 3.3
     },
     "oil_brent": {
-      "price": 95.87,
-      "change_pct": -6.55
+      "price": 98.24,
+      "change_pct": -5.11
     },
     "gold": {
-      "price": 4214.7002,
-      "change_pct": 0.84
+      "price": 4213.1001,
+      "change_pct": 0.63
     },
     "silver": {
-      "price": 61.52,
-      "change_pct": 1.4
+      "price": 61.38,
+      "change_pct": 2.13
     },
     "us10y": {
-      "price": 5.255,
-      "change_pct": 0.29
+      "price": 5.293,
+      "change_pct": 0.72
     },
     "us2y": {
-      "price": 4.065,
-      "change_pct": 0.2
+      "price": 4.03,
+      "change_pct": -0.86
     },
     "dxy": {
-      "price": 101.271,
-      "change_pct": -0.1
+      "price": 101.659,
+      "change_pct": 0.21
     },
     "usdcny": {
-      "price": 6.7031,
-      "change_pct": -0.11
+      "price": 6.7048,
+      "change_pct": 0.03
     },
     "vix": {
-      "price": 16.04,
-      "change_pct": -0.19
+      "price": 16.34,
+      "change_pct": null
     }
   },
   "macro_us": {
     "cpi": {
-      "date": "1970-01-01",
-      "value": "0.5",
-      "forecast": "nan",
-      "prev": "nan"
+      "_error": "美国CPI: Expecting value: line 1 column 1 (char 0)"
     },
     "core_cpi": {
-      "date": "1970-01-01",
-      "value": "0.5",
-      "prev": "nan"
+      "_error": "美国核心CPI: Expecting value: line 1 column 1 (char 0)"
     },
     "ppi": {
-      "date": "2008-02-26",
-      "value": "1.0",
-      "prev": "-0.3"
+      "_error": "美国PPI: Expecting value: line 1 column 1 (char 0)"
     },
     "core_pce": {
       "date": "1970-01-01",
@@ -148,13 +141,13 @@
       "5y": "3.5"
     },
     "bdi": {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "value": "N/A"
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0227,
-    "yield_spread_10_2": 1.19,
-    "gold_dxy_ratio": 41.618
+    "oil_gold_ratio": 0.0233,
+    "yield_spread_10_2": 1.263,
+    "gold_dxy_ratio": 41.443
   }
 }
