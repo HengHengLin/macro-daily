@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "market": {
     "sp500": {
       "price": 7722.7202,
@@ -27,15 +27,15 @@
     },
     "oil_brent": {
       "price": 102.25,
-      "change_pct": -0.06
+      "change_pct": null
     },
     "gold": {
       "price": 4162.2998,
-      "change_pct": -0.95
+      "change_pct": null
     },
     "silver": {
-      "price": 59.977,
-      "change_pct": -1.23
+      "price": 60.415,
+      "change_pct": null
     },
     "us10y": {
       "price": 5.277,
@@ -47,7 +47,7 @@
     },
     "dxy": {
       "price": 101.93,
-      "change_pct": -0.17
+      "change_pct": null
     },
     "usdcny": {
       "price": 6.7048,
