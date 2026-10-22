@@ -1,61 +1,61 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "market": {
     "sp500": {
-      "price": 7712.5698,
-      "change_pct": 0.28
+      "price": 7757.1699,
+      "change_pct": 0.58
     },
     "nasdaq": {
-      "price": 26424.8203,
-      "change_pct": -0.02
+      "price": 26702.8594,
+      "change_pct": 1.05
     },
     "dow": {
-      "price": 52495.8789,
-      "change_pct": 1.02
+      "price": 52856.0898,
+      "change_pct": 0.69
     },
     "hsi": {
-      "price": 23757.6094,
-      "change_pct": -0.46
+      "price": 22912.5508,
+      "change_pct": -3.13
     },
     "csi300": {
-      "price": 4118.9673,
+      "price": 4027.7693,
       "change_pct": null
     },
     "nikkei": {
-      "price": 64805.3281,
-      "change_pct": 1.14
+      "price": 63035.1289,
+      "change_pct": -2.45
     },
     "oil_brent": {
-      "price": 110.29,
-      "change_pct": 1.38
+      "price": 111.14,
+      "change_pct": 2.13
     },
     "gold": {
-      "price": 4140.3999,
-      "change_pct": -0.05
+      "price": 4097.3999,
+      "change_pct": -1.27
     },
     "silver": {
-      "price": 57.45,
-      "change_pct": -0.44
+      "price": 56.13,
+      "change_pct": -2.25
     },
     "us10y": {
-      "price": 5.117,
-      "change_pct": -0.37
+      "price": 5.146,
+      "change_pct": 0.57
     },
     "us2y": {
-      "price": 4.08,
-      "change_pct": 0.12
+      "price": 4.063,
+      "change_pct": -0.42
     },
     "dxy": {
-      "price": 101.788,
-      "change_pct": 0.06
-    },
-    "usdcny": {
-      "price": 6.6778,
+      "price": 101.574,
       "change_pct": -0.2
     },
+    "usdcny": {
+      "price": 6.6639,
+      "change_pct": -0.21
+    },
     "vix": {
-      "price": 17.31,
-      "change_pct": -6.13
+      "price": 16.68,
+      "change_pct": -3.64
     }
   },
   "macro_us": {
@@ -148,13 +148,13 @@
       "5y": "3.5"
     },
     "bdi": {
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "value": "N/A"
     }
   },
   "ratios": {
-    "oil_gold_ratio": 0.0266,
-    "yield_spread_10_2": 1.037,
-    "gold_dxy_ratio": 40.677
+    "oil_gold_ratio": 0.0271,
+    "yield_spread_10_2": 1.083,
+    "gold_dxy_ratio": 40.339
   }
 }
