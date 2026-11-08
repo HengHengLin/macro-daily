@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "market": {
     "sp500": {
       "price": 7376.8599,
@@ -27,15 +27,15 @@
     },
     "oil_brent": {
       "price": 98.32,
-      "change_pct": 0.03
+      "change_pct": null
     },
     "gold": {
       "price": 4074.8999,
-      "change_pct": -0.94
+      "change_pct": null
     },
     "silver": {
-      "price": 51.803,
-      "change_pct": -0.82
+      "price": 51.942,
+      "change_pct": null
     },
     "us10y": {
       "price": 4.859,
@@ -47,7 +47,7 @@
     },
     "dxy": {
       "price": 102.3,
-      "change_pct": 0.74
+      "change_pct": null
     },
     "usdcny": {
       "price": 6.671,
@@ -150,7 +150,7 @@
       "5y": "3.5"
     },
     "bdi": {
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "value": "N/A"
     }
   },
